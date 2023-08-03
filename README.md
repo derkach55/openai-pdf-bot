@@ -1,4 +1,4 @@
-##PDF Analyser Bot
+## PDF Analyser Bot
 
 Telegram bot integrated with OpenAI that analyzes pdf file and generates response based on extracted data
 
